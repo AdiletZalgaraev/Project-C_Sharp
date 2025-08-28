@@ -1,0 +1,8 @@
+C:\Users\ZalgaraevA\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\ZalgaraevA\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\ZalgaraevA\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\ZalgaraevA\source\repos\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ZalgaraevA\source\repos\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZalgaraevA\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ZalgaraevA\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\ZalgaraevA\source\repos\Server\Server\obj\Debug\Server.pdb

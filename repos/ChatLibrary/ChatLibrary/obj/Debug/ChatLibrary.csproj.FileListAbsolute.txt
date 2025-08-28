@@ -1,0 +1,6 @@
+C:\Users\ZalgaraevA\source\repos\ChatLibrary\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\ZalgaraevA\source\repos\ChatLibrary\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\ZalgaraevA\source\repos\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.csproj.AssemblyReference.cache
+C:\Users\ZalgaraevA\source\repos\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ZalgaraevA\source\repos\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\ZalgaraevA\source\repos\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.pdb
