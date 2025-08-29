@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlibabaSort", "ConsoleApp3\AlibabaSort.csproj", "{959C0D15-7E80-4FE0-A36D-2F425E136196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959C0D15-7E80-4FE0-A36D-2F425E136196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959C0D15-7E80-4FE0-A36D-2F425E136196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959C0D15-7E80-4FE0-A36D-2F425E136196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959C0D15-7E80-4FE0-A36D-2F425E136196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14ED9BC3-C275-4F63-809A-ADCFA4C9D8A8}
+	EndGlobalSection
+EndGlobal
