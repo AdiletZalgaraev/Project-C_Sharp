@@ -1,0 +1,17 @@
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.csproj.AssemblyReference.cache
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\App.g.cs
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription_MarkupCompile.cache
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\bin\Debug\WpfAppCatDiscription.exe.config
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\bin\Debug\WpfAppCatDiscription.exe
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\bin\Debug\WpfAppCatDiscription.pdb
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\MainWindow.g.cs
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription_MarkupCompile.lref
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\MainWindow.baml
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.g.resources
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.Properties.Resources.resources
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.csproj.GenerateResource.cache
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.csproj.CoreCompileInputs.cache
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.exe
+C:\Users\ZalgaraevA\source\repos\WpfAppCatDiscription\WpfAppCatDiscription\obj\Debug\WpfAppCatDiscription.pdb
